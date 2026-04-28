@@ -203,12 +203,14 @@ Cụ thể:  đang build solution trước khi chứng minh problem-solution fit
 
 Open question bạn muốn giải đáp tiếp
 1.[...] “Ý quan trọng” thực sự được signal bằng gì trong bài giảng?
-Lặp lại?
-Giọng nhấn mạnh? (prosody)
-Từ khóa như “quan trọng”, “thi sẽ ra”?
+- Lặp lại?
+- Giọng nhấn mạnh? (prosody)
+- Từ khóa như “quan trọng”, “thi sẽ ra”?
+- Nội dung được đặt câu hỏi cho nhiều người tham gia trả lời
+
 Slide / context xung quanh?
 
-→ Đây là câu hỏi cốt lõi, quyết định  có cần GPT hay không
+→ Đây là câu hỏi cốt lõi, quyết định  có cần GPT hay không hay chỉ cần dùng mô hình nhỏ hơn là được 
 2.[...] Highlight = intermediate step
 Có thể user chỉ cần:
 → “Top 10 ý cần học cho kỳ thi”
